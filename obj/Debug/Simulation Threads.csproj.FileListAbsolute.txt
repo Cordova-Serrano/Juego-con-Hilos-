@@ -1,0 +1,12 @@
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\2do Parcial\Simulation Threads\bin\Debug\Simulation Threads.exe.config
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\2do Parcial\Simulation Threads\bin\Debug\Simulation Threads.exe
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\2do Parcial\Simulation Threads\bin\Debug\Simulation Threads.pdb
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\2do Parcial\Simulation Threads\obj\Debug\Simulation Threads.csprojAssemblyReference.cache
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\2do Parcial\Simulation Threads\obj\Debug\Simulation_Threads.Form1.resources
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\2do Parcial\Simulation Threads\obj\Debug\Simulation_Threads.Properties.Resources.resources
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\2do Parcial\Simulation Threads\obj\Debug\Simulation_Threads.Simulation.resources
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\2do Parcial\Simulation Threads\obj\Debug\Simulation Threads.csproj.GenerateResource.cache
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\2do Parcial\Simulation Threads\obj\Debug\Simulation Threads.csproj.CoreCompileInputs.cache
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\2do Parcial\Simulation Threads\obj\Debug\Simulation Threads.exe
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\2do Parcial\Simulation Threads\obj\Debug\Simulation Threads.pdb
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\2do Parcial\Simulation Threads\obj\Debug\Simulation_Threads.WinScreen.resources
